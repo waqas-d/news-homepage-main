@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: Inter;
+    src: url('../assets/fonts/Inter-VariableFont_slnt\,wght.ttf');
+}
+.inter {
+    font-family: Inter;
+    font-weight: 400;
+}
+.interMed {
+    font-family: Inter;
+    font-weight: 600;
+}
+
+.interHev {
+    font-family: Inter;
+    font-weight: 800;
+}

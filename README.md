@@ -8,9 +8,9 @@ Description: Practice your front end skills.
 
 Download and open the project, the prototype of the site is in the design folder inside the code.  Copy the design with the best of your abilities using the sources provided in the code.
 
-Peer reviewed by: 
+Peer reviewed by: Jared Ly
 
-Peer comments: 
+Peer comments: The site looks and responsivenss could use some improvement but hovering over links works properly. h1 and other h classes are not needed as h1 classes are not functional in tailwind, some containers could use some alining with px- or mx- but overall a good attempt
 
 
 
